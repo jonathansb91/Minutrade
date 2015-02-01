@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minutrade</string>
+    <string name="product">Product</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>    
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="update">Update</string>
+    <string name="list">List of products</string>
+
+</resources>
